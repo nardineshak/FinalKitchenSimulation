@@ -1,3 +1,7 @@
+Project:
+Kitchen Simulation responsible for simulating orders coming in and orders being picked up and delievered by couriers using FIFO or Matched strategy.
+
+
 **RUNNING THE SIMULATION:**
 
 Once you download the zip package and decompress it open it in your IDE. 
